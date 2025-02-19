@@ -7,9 +7,12 @@ branchC has monster
 
 New branchC second commit
 
-branchB is a mouse
+branchB has monster
+
 
 commiting from branchB
 
-1st Commit
+1st Commiit
+
+2nd Commit
 
